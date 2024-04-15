@@ -8,5 +8,10 @@
 - Virtualization and networking
 - Software Defined Networking
 - Cloud Networking with Microsoft Azure
+**Acquired skills / Придобити умения**
+- Detailed understanding and working with computer networks
+- Define and use networks, using modern approaches
+- Virtualization of network devices and services
+- Networking technologies and protocols skills
 
 ![Computer Networking Advanced - January 2024 - Certificate](https://github.com/PetarValev/Computer-Networking/assets/107813549/a6610e42-26df-4221-8116-ab63cc2e2e55)

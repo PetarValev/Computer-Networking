@@ -8,6 +8,7 @@
 - Virtualization and networking
 - Software Defined Networking
 - Cloud Networking with Microsoft Azure
+
 **Acquired skills / Придобити умения**
 - Detailed understanding and working with computer networks
 - Define and use networks, using modern approaches

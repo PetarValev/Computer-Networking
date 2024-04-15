@@ -1,5 +1,7 @@
 # Computer-Networking
 
+![Computer Networking Fundamentals - October 2023 - Certificate](https://github.com/PetarValev/Computer-Networking/assets/107813549/73aad138-7349-4465-95a7-ed5c1e6c99f1)
+
 **Course topics / Изучавани теми в курса**
 - Introduction to Networking
 - IP Addresses and Host-to-Host Communication
